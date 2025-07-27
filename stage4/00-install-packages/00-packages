@@ -7,7 +7,6 @@ alacarte rc-gui sense-hat
 libgl1-mesa-dri libgles1 libgles2-mesa xcompmgr
 piclone
 python3-twython
-python3-flask
 pprompt
 piwiz
 rp-prefapps
